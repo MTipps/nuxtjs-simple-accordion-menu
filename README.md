@@ -2,7 +2,7 @@
 
 A series of accordion menus that can open each menu individually when clicked. To read the blog post [How to create a simple accordion menu with Nuxt.js](https://megantipps.medium.com/how-to-create-a-simple-accordion-menu-with-nuxt-js-878a48985a7e).
 
-
+![alt text](simple-accordion-menu.gif)
 
 ## Build Setup
 
